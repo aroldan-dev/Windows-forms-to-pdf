@@ -14,7 +14,7 @@ import java.util.ArrayList;
  */
 public class CodeToPdf {
 
-    static final String DIRECTORIO_DES_INT = "D:\\BACKUP-CLASE\\2DAM\\desarrolloInterfaces";
+    static final String DIRECTORIO_DES_INT = "DIRECTORIO_INTERFACES";
     static ArrayList<File> ficherosCSENcontrados = new ArrayList<>();
 
     /**
